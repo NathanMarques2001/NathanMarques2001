@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🌱 I’m currently learning web development
-- 📫 How to reach me: https://www.linkedin.com/in/nathan-marques-1a7818244/
+My name is Nathan Marques and I'm a computer science student. 
+
+I am currently studying web development.
+
+<br>
+
+# Skills and Experience
+- 💻 HTML, CSS, JS
+- ☕ Java
