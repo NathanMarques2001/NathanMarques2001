@@ -6,5 +6,5 @@ I am currently studying web development.
 
 
 # Skills and Experience
-- 💻 HTML, CSS, JS
-- ☕ Java
+- 💻 HTML, CSS, JS, ReactJS
+- ☕ Java, Node
