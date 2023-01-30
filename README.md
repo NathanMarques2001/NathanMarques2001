@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=your-IgorSilvaMedeiros&style=flat-square" align="left">
 <h1 align="center">
   <b>Welcome to my profile!!! </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -8,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Igor">
 
 <p align="left"> 
-  Hello, my name is <strong>Igor da Silva</strong> and I have a degree in computer science and I study web development, I'm studying in Rocketseat's full-stack    development training course.
+  Hello, my name is <strong>Nathan Marques</strong> and I have a degree in computer science and I study web development, I'm studying in Rocketseat's full-stack    development training course.
 </p>
 
 <p align="left">
@@ -46,16 +45,3 @@
 </br>
 
 <p align="center">
-
-| <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=IgorSilvaMedeiros&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues">      | <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSilvaMedeiros&layout=compact&hide_border=true&theme=transparent"> |
-| ----------- | ----------- |
-  
-<p align="left">
-    💌 If you want to see more of my work or get in touch, follow my networks: ⤵️
-  <p>
-    <a href="mailto:igoratendimento@outlook.com.br">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"></a>
-    <a href="https://www.linkedin.com/in/igor-da-silva-medeiros/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-   </p>
-</p>  
