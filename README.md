@@ -4,8 +4,6 @@
   
 </br>
 
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Igor">
-
 <p align="left"> 
 Hello! my name is <strong>Nathan Marques</strong>, I'm graduating computer science and I study web development, I'm studying in rocketseat's full-stack development training course.
 </p>
