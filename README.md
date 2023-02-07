@@ -9,7 +9,7 @@ Hello! my name is <strong>Nathan Marques</strong>, I'm graduating computer scien
 </p>
 
 <p align="left">
-  🤖 Skills:
+  Skills:
   <p align="left"> 
    
 * Languages:
