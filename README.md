@@ -16,6 +16,8 @@ Hello! my name is <strong>Nathan Marques</strong>, I'm graduating computer scien
     
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-e28743?style=for-the-badge&logoColor=white">
+    
     
 * Front-End Development:    
     
