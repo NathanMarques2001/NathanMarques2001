@@ -5,18 +5,19 @@
 </br>
 
 <p align="left"> 
-Hello! my name is <strong>Nathan Marques</strong>, I'm graduating computer science and I study web development, I'm studying in rocketseat's full-stack development training course.
+Hello! My name is <strong>Nathan Marques</strong>, and I'm a computer science student studying web development. I am currently studying WEB development. Specializing to become a fullstack developer!
 </p>
 
 <p align="left">
-  Skills:
+  💻 Skills:
   <p align="left"> 
    
 * Languages:
     
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-e28743?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-e28743?style=for-the-badge&logo=javaColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     
     
 * Front-End Development:    
@@ -33,14 +34,10 @@ Hello! my name is <strong>Nathan Marques</strong>, I'm graduating computer scien
 </p>
 
 <p align="left">
-  💼 Tools: 
+  🔧 Tools: 
   <p align="left">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </p>
 </p>
-
-</br>
-
-<p align="center">
