@@ -5,7 +5,7 @@
 </br>
 
 <p align="left"> 
-Hello! My name is <strong>Nathan Marques</strong>, and I'm a computer science student studying web development. I am currently studying WEB development. Specializing to become a fullstack developer!
+Hello! My name is <strong>Nathan Marques</strong>, and I'm a computer science student. I am currently studying WEB development. Specializing me to become a fullstack developer!
 </p>
 
 <p align="left">
