@@ -38,3 +38,9 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanmarques2001&show_icons=true&locale=en" alt="nathanmarques2001" /></p>
+
+<style>
+  a {
+    text-decoration:none;
+  }
+</style>
