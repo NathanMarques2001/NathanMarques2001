@@ -35,8 +35,4 @@
   a {
     text-decoration:none;
   }
-
-  .techs {
-    background-color: #FFFFFF;
-  }
 </style>
