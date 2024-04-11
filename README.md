@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nathanbrandao1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nathan-marques-1a7818244/](https://www.linkedin.com/in/nathan-marques-1a7818244/)
-
 - ⚡ Fun fact **I'm in love with One Piece**
 
 <h3 align="left">Connect with me:</h3>
