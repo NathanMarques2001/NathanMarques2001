@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nathanbrandao1@gmail.com**
 
-- ⚡ Fun fact **I'm in love with One Piece**
+- ⚡ Fun fact **I'm in love with Berserk and One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
