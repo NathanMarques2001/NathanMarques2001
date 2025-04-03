@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanmarques2001&label=Profile%20views&color=0e75b6&style=flat" alt="nathanmarques2001" /> </p>
 
-- 🌱 I’m currently learning **WEB development**
+- 🌱 I’m currently learning **Operating Systems**
 
 - 👨‍💻 All of my projects are available at [Nathan Portfolio](https://nathanmarques2001.github.io/projetos/)
 
