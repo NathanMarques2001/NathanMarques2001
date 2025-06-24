@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanmarques2001&label=Profile%20views&color=0e75b6&style=flat" alt="nathanmarques2001" /> </p>
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱 I’m currently learning **Operating Systems, with a focus on C and NASM Assembly (x86_64)**
 
 - 👨‍💻 All of my projects are available at [Nathan Portfolio](https://nathanmarques2001.github.io/projetos/)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Operating Systems and ReactJS**
 
 - 📫 How to reach me **nathanbrandao1@gmail.com**
 
